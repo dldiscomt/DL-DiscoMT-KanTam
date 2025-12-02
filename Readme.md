@@ -7,14 +7,14 @@
 
 Download the model from the provided drive link: 
 
-   <google drive link>
+   [https://drive.google.com/drive/folders/1TG9VT3wbJvy90VBjXjGsZUAn3jIkInft?usp=sharing](https://drive.google.com/drive/folders/1TG9VT3wbJvy90VBjXjGsZUAn3jIkInft?usp=sharing)
 
 Alternatively, you can use the following command:
 
 ```bash
 pip install gdown
 
-gdown --folder <google drive link>
+gdown --folder https://drive.google.com/drive/folders/1TG9VT3wbJvy90VBjXjGsZUAn3jIkInft?usp=sharing
 
 ```
 * The download path, we will consider as **"basePath"** in this readme
@@ -85,19 +85,10 @@ Or on Ubuntu:
 
 
 ## Screenshots
-input :"பயணச்சீட்டு பரிசோதகரின் விரைவான பதில் மற்றும் மருத்துவ அவசரநிலையைச் சமாளிப்பதற்கான தயார்நிலை, நீண்ட தூர ரயில் பயணத்தின் போது மாரடைப்பால் பாதிக்கப்பட்ட ஒரு வயதான பயணியின் உயிரைக் காப்பாற்றியது."
+input :"ಗೌತಮ್ ಗಂಭೀರ್ ಹಾಗೂ ಕೊಹ್ಲಿ ನಡುವೆ ಬಿರುಕು ಮೂಡಿದೆ ಎನ್ನಲಾಗುತ್ತಿದೆ."
 <br>
-![App Screenshot](https://github.com/dldiscomt/DL-DiscoMT-TamMal/blob/main/OutputScreenshots/Picture1.jpg?raw=true)
+![App Screenshot](https://github.com/dldiscomt/DL-DiscoMT-KanTam/blob/main/output/katapicture.jpg?raw=true)
 
-
-input :"பிஹாரின் தர்பங்காவில் இருந்து உத்தரபிரதேச மாநிலம் வாரணாசிக்கு பவன் எக்ஸ்பிரஸின் முதல் வகுப்பு பெட்டியில் பிபி கர்ணும் அவரது சகோதரரும் சென்று கொண்டிருந்தனர்."
-<br>
-![App Screenshot ](https://github.com/dldiscomt/DL-DiscoMT-TamMal/blob/main/OutputScreenshots/Picture2.jpg?raw=true)
-
-
-input :"ரொக்கப் பரிசும் அறிவிக்கப்பட்டுள்ளது."
-<br>
-![App Screenshot](https://github.com/dldiscomt/DL-DiscoMT-TamMal/blob/main/OutputScreenshots/Picture3.jpg?raw=true)
 
 
 ## Demo
